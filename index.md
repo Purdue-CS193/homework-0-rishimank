@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Rishi Mankala's First CS193 Homework
 
 My favorite things about 193 include:
